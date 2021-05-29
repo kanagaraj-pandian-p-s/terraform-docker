@@ -1,0 +1,4 @@
+grafana-dev-jibk: 172.17.0.5:3101
+nodered-dev-juwj: 172.17.0.3:1980
+influxdb-dev-rmiq: 172.17.0.2:8186
+grafana-dev-h6u6: 172.17.0.4:3100
